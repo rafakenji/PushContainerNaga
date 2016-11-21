@@ -31,3 +31,36 @@ D:\Projetos\PushContainerNaga\PushContainer\PushContainer\bin\Microsoft.CodeDom.
 D:\Projetos\PushContainerNaga\PushContainer\PushContainer\obj\Debug\PushContainer.csprojResolveAssemblyReference.cache
 D:\Projetos\PushContainerNaga\PushContainer\PushContainer\obj\Debug\PushContainer.dll
 D:\Projetos\PushContainerNaga\PushContainer\PushContainer\obj\Debug\PushContainer.pdb
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\ApplicationInsights.config
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\csc.exe
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\System.Collections.Immutable.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\vbc.exe
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\VBCSCompiler.exe
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\roslyn\VBCSCompiler.exe.config
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\PushContainer.dll.config
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\PushContainer.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\PushContainer.pdb
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.Web.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.WindowsServer.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.ApplicationInsights.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.Web.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.AI.WindowsServer.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.ApplicationInsights.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\obj\Debug\PushContainer.csprojResolveAssemblyReference.cache
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\obj\Debug\PushContainer.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\PushContainerNaga\Example\PushContainer\PushContainer\obj\Debug\PushContainer.pdb
