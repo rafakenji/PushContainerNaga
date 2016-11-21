@@ -65,15 +65,18 @@ Ready!
 ### 4. Features
 
 * Start the creation of containers
+
 	PushContainer.Init();
 
 * Add containers
+
 	PushContainer.Add({
 						ClassPushContainer: "CLASSE",
 						HtmlUp: "BUTTON MESSAGE",
 					});
 
 property example that can be change, how button color, container color, if button close hide or show. In property "HtmlUp" can pass tags in HTML.
+
 	var Model_Element = {
 		ClassPushContainer: "example_class", //class father (required)
 		ClassContainer: null, //class container
@@ -86,15 +89,19 @@ property example that can be change, how button color, container color, if butto
 	};
 
 * Picking up the elements that is containers, it's a array.
+
 	var elements = PushContainer.Element;
 	
 * Close all the containers if not pass parameters, or close container for ID element
+
 	PushContainer.Close();
 	
 * Open the container that pass the parameter
+
 	PushContainer.Open(0);
 	
 * To leave responsive the containers
+
 	BoxTip.Responsive();
 
 ### 5. Example	
@@ -170,15 +177,18 @@ Pronto!
 ### 4. Funcionalidades
 
 * omeçando a criação de containers
+
 	PushContainer.Init();
 
 * Adiciona um containers
+
 	PushContainer.Add({
 						ClassPushContainer: "CLASSE",
 						HtmlUp: "BUTTON MESSAGE",
 					});
 
 Exemplo de propriedade que pode ser alterado, como a cor do botão, a cor do recipiente, se o botão fechar ocultar ou mostrar. Na propriedade "HtmlUp" pode passar tags em HTML.
+	
 	var Model_Element = {
 		ClassPushContainer: "example_class", //classe pai que do push container (obrigatorio)
 		ClassContainer: null, //classe do container
@@ -189,18 +199,27 @@ Exemplo de propriedade que pode ser alterado, como a cor do botão, a cor do rec
 		ColorUp: "#ff0000", //cor do botao que puxa
 		ColorContainer: "#ff0000" //cor do container
 	};
+	
 
 * Pegando os elementos que são containers, é uma matriz.
+	
 	var elements = PushContainer.Element;
 	
+	
 * Feche todos os containers se não passar parâmetros, ou fechar o recipiente para o elemento ID.
+	
 	PushContainer.Close();
 	
+	
 * Abra o contêiner que passar o parâmetro.
+	
 	PushContainer.Open(0);
 	
+	
 * Deixar responsivo os containers.
+	
 	BoxTip.Responsive();
+	
 
 ### 5. Exemplo	
 
